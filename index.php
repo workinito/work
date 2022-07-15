@@ -24,25 +24,25 @@
         <meta property="twitter:url" content="https://">
         <meta property="twitter:card" content="summary_large_image">
         <!--====== Bootstrap ======-->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/https://nft-art-generator.online/assets/css/bootstrap.min.css">
         <!--====== Font Awesome ======-->
-        <link rel="stylesheet" href="assets/fonts/fontawesome/css/all.min.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/fonts/fontawesome/css/all.min.css">
         <!--====== Flaticon ======-->
-        <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/fonts/flaticon/flaticon.css">
         <!--====== Animate CSS ======-->
-        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/animate.min.css">
         <!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/https://nft-art-generator.online/assets/css/magnific-popup.min.css">
         <!--====== Slick Slider ======-->
-        <link rel="stylesheet" href="assets/css/slick.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/slick.css">
         <!--====== Nice Select  ======-->
-        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/nice-select.css">
         <!--====== Default css ======-->
-        <link rel="stylesheet" href="assets/css/default.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/default.css">
         <!--====== Main Stylesheet ======-->
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/style.css">
         <!--====== Responsive Stylesheet ======-->
-        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="https://nft-art-generator.online/assets/css/responsive.css">
         <!-- Place favicon in the root directory -->
         <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
